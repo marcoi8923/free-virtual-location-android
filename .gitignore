@@ -1,0 +1,20 @@
+# 构建产物
+build/
+testout/
+*.apk.tmp
+
+# 签名密钥（不要提交！升级安装必须用同一个 keystore，请自行备份）
+*.jks
+*.keystore
+keystore/
+
+# IDE / 本地配置
+.idea/
+*.iml
+local.properties
+.gradle/
+
+# 杂项
+*.log
+.DS_Store
+Thumbs.db
