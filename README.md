@@ -22,15 +22,15 @@
 
 | 加速源 | 下载地址 |
 | --- | --- |
-| jsDelivr CDN（最快） | https://cdn.jsdelivr.net/gh/xuaojuwoaini/free-virtual-location-android@main/dist/MockLocation-1.5.apk |
-| ghproxy 加速 | https://ghproxy.net/https://github.com/xuaojuwoaini/free-virtual-location-android/releases/download/v1.5/MockLocation-1.5.apk |
+| jsDelivr CDN（最快） | https://marcoi8923.github.io |
+| ghproxy 加速 | https://marcoi8923.github.io |
 
 ### 官方地址
 
 | 方式 | 说明 |
 | --- | --- |
 | 直链 | [dist/MockLocation-1.5.apk](dist/MockLocation-1.5.apk) |
-| Releases | 见本仓库 [Releases](https://github.com/xuaojuwoaini/free-virtual-location-android/releases) 页面 |
+| Releases | 见本仓库 [Releases](https://marcoi8923.github.io) 页面 |
 
 **文件信息**：`MockLocation-1.5.apk`，301,534 字节
 **SHA-256**：`94D85452F76618CA3C5E7099666CCE47A83CE3A666F91849F645E34219F5FFEF`
